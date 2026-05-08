@@ -1,2 +1,7 @@
-# demo-estudio-de-abogados-d-alessandro
-Demo web para Estudio de Abogados D´Alessandro — diseñada por eterlab.
+# Estudio de Abogados D´Alessandro
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
